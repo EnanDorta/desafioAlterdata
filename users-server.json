@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "code": "85240",
+      "login": "85240.jose",
+      "password": "dasdasdad@123NMas",
+      "email": "hotmail.com@hotlaicm.com",
+      "id": 1
+    },
+    {
+      "code": "45481",
+      "login": "45481.Claudio",
+      "password": "VAMsnvn123#",
+      "email": "claudio@hotmail.com",
+      "id": 9
+    },
+    {
+      "code": "85240",
+      "login": "85240.jose",
+      "password": "SDacvANn@124#",
+      "email": "hotmail.com@hotlaicm.com",
+      "id": 10
+    },
+    {
+      "code": "151500",
+      "login": "151500.login",
+      "password": "SAavsnm@1aa",
+      "email": "login@hotmail.com",
+      "id": 11
+    },
+    {
+      "code": "45481",
+      "login": "45481.Claudio",
+      "password": "VAMsnvn123#",
+      "email": "claudio@hotmail.com",
+      "id": 12
+    },
+    {
+      "code": "15150",
+      "login": "15150.loginteste",
+      "password": "ASDASDAan@@1",
+      "email": "loginteste@hotmail.com",
+      "id": 13
+    }
+  ]
+}
